@@ -1,0 +1,73 @@
+button{
+    border-radius: 20px;
+    margin: 10px 45px 10px 45px ;
+    background-color: rgb(20, 240, 240);
+    border-color: rgb(46, 0, 253);
+    color: rgb(226, 113, 7);
+    font-family: dancing script;
+    font-size: larger;
+}
+h1{
+ font-family: bubblegum ink;
+ color:rgb(0, 255, 200);
+}
+
+h2{
+font-family: topsecret;
+color: springgreen;
+}
+
+body{
+    text-align: center; 
+    background-color: tomato;
+}
+
+@font-face {
+    font-family: wrestlemania;
+    src: url(fonts/WRESTLEMANIA.ttf);
+}
+
+@font-face {
+    font-family: bunny baby;
+    src: url(fonts/bunny_baby/Bunny\ Baby.otf);
+}
+
+@font-face {
+    font-family: pokemon hollow;
+    src: url(fonts/pokemon/Pokemon\ Hollow.ttf);
+}
+
+@font-face {
+    font-family: no Virus;
+    src: url(fonts/no_virus/No\ Virus.ttf);
+}
+
+@font-face {
+    font-family: chicken quiche ;
+    src: url(fonts/chicken_quiche/Chicken\ Quiche.otf);
+}
+
+@font-face {
+    font-family: dancing script;
+    src: url(fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: bubblegum ink;
+    src: url(fonts/bubblegum_ink/BubblegumInk-Regular.ttf);
+}
+
+@font-face {
+    font-family: spider man;
+    src: url(fonts/the_amazing_spider_man/The\ Amazing\ Spider-Man.ttf);
+}
+
+@font-face {
+    font-family: topsecret;
+    src: url(fonts/top_secret_kb/Top\ Secret.ttf);
+}
+
+@font-face {
+    font-family: angrybirds;
+    src: url(fonts/angrybirds/angrybirds-regular.ttf);
+}
